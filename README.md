@@ -18,3 +18,4 @@
 - Run the application (it may take some minutes to create 100 million product records)
 - Hit the endpoint `http://localhost:8080/` to see the results & comparisons of querying in regular old_product table and partitioned product table.
 
+<!-- sync-marker-1 -->
